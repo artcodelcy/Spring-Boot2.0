@@ -1,0 +1,40 @@
+package test;
+
+import java.awt.image.SampleModel;
+
+public class Test02 implements Runnable {
+
+	private int trainCount = 100;
+	private Object  oj= new Object();
+	public boolean flag = true;
+	
+	public void run(){
+		
+		if (flag) {
+		   while (trainCount > 0) {
+			synchronized (this) {
+				try {
+					Thread.sleep(10);
+				} catch (Exception e) {
+					// TODO: handle exception
+				}
+				if (trainCount>0) {
+					System.out.println(Thread.currentThread().getName()+","+"³öÊÛµÚ"+(100-trainCount+1)+"Æ±");
+					trainCount--;
+				}
+			}
+		}
+		     
+		}else{
+			while (trainCount>0) {
+				sale();
+			}
+		}
+		
+		
+		
+	}
+	
+	
+	
+}

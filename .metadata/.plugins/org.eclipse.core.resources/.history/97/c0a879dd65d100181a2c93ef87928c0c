@@ -1,0 +1,28 @@
+package test;
+
+import java.util.ArrayList;
+
+public class Book implements Cloneable {
+  
+	private String title;
+	private ArrayList<String> image = new ArrayList<>();
+	
+	public Book(){
+		super();
+	}
+	
+	protected Book clone() {
+		try {
+			Book book = (Book) super.clone();
+			book.image=(ArrayList<String>)this.image.clone();
+			return book;		
+		} catch (CloneNotSupportedException e) {
+			// TODO: handle exception
+		}
+		
+		return null;
+	}
+	
+	
+	
+}

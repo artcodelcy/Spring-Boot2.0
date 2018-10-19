@@ -1,0 +1,51 @@
+package test;
+
+import java.io.SequenceInputStream;
+import java.util.Random;
+import java.util.concurrent.Semaphore;
+
+class Test  extends Thread{
+ private String name;
+ private Semaphore wc;
+ 
+  public Test(String name, Semaphore wc) {
+     this.name=name;
+     this.wc=wc;
+}
+	public void run(){
+		int availablePermits = wc.availablePermits();
+		if (availablePermits>0) {
+			System.out.println(name+"有啊");
+		}else {
+			System.out.println(name+"没有了啊");
+		}
+		try {
+			wc.acquire();
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		System.out.println(name+"终于有了剩下的数"+wc.availablePermits());
+		try {
+			Thread.sleep(new Random().nextInt(1000));
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		System.out.println(name+"上完了");
+		wc.release();
+	}	
+}
+ public  class Test10{
+	public static void main(String[] args){
+	  Semaphore semaphore = new Semaphore(3);
+	  for(int i = 1; i<=10; i++){
+		  Test test = new Test("第"+i+"个人", semaphore);
+		  test.start();
+	  }
+		
+	}
+	
+	
+	
+}
+

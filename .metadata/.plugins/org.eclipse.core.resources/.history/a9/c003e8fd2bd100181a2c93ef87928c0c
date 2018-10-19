@@ -1,0 +1,14 @@
+package test;
+
+public class Test {
+
+  public static void main(String[] args){
+	  
+	 Class x = test16.class;
+	 System.out.println(x);
+	  
+	  
+  }
+	
+	
+}

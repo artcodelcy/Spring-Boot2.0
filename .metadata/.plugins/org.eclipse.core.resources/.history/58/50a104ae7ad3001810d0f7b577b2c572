@@ -1,0 +1,12 @@
+package com.toov5.ErrorCatch;
+
+@RestController //以后经常做微服务异常捕获，要经常用到这个注解
+public class ErrorCatch {
+    @RequestMapping("/getUser")
+	public String getUser(int i ){
+        int j = 1/i;	
+       
+    	return "返回"+j;
+	}
+	 
+}

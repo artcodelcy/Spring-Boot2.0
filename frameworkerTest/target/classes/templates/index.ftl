@@ -1,0 +1,3 @@
+hello frameworker,
+
+${name}*****${age}

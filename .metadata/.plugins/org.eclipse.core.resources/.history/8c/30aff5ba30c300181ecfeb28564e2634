@@ -1,0 +1,29 @@
+package com.test;
+
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+public class Test0009 {
+
+	public static void main(String[] args){
+		//单线程
+	ExecutorService newSingleThreadExcutor =	Executors.newSingleThreadExecutor();//搞出一个线程池来
+		for(int i=0; i<20; i++){
+			final int temp = i;
+			newSingleThreadExcutor.execute(new Runnable() {
+				
+				@Override
+				public void run() {
+					System.out.println(Thread.currentThread().getName()+","+temp);
+					
+				}
+			});
+			
+			
+		}
+		
+		
+	}
+	
+	
+}

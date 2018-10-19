@@ -1,0 +1,5 @@
+package com.toov5.datasource;
+
+public class DataSource1Config {
+
+}

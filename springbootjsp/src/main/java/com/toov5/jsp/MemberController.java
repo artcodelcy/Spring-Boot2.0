@@ -1,0 +1,26 @@
+  package com.toov5.jsp;
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.toov5.service.MemberService;
+
+import lombok.extern.slf4j.Slf4j;
+
+@RestController
+@Slf4j
+public class MemberController {
+  @Autowired
+  private MemberService memberService;
+    
+    @RequestMapping("/addMemberAndEmail")
+	public String addMemberAndEmail(){
+	   log.info("1");
+	   String result = memberService.addMemberAndEmail();
+	   log.info("4");
+	   return "result"+result;
+	}
+	
+}

@@ -1,0 +1,34 @@
+package test;
+
+
+public class Test01 implements Runnable{
+
+	private int trainCount = 100;
+	
+	public void run(){
+		while (true) {
+			try {
+				Thread.sleep(50);
+			} catch (Exception e) {
+				// TODO: handle exception
+			}
+			sale();
+		}
+	}
+	 
+	public void sale(){
+		if (trainCount >0) {
+			System.out.println(Thread.currentThread().getName()+"出售第"+(100-trainCount+1)+"张票");
+			trainCount--;
+		}
+	}
+	public static void main(String[] args){
+		Test01 test01 = new Test01();
+		Thread thread1 = new Thread(test01,"1号窗口");
+		Thread thread2 = new Thread(test01,"2号窗口");
+		 
+	    thread1.start();
+	    thread2.start();
+	}
+	
+}

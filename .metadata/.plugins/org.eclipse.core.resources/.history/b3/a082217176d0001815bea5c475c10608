@@ -1,0 +1,75 @@
+package test;
+
+class TestTh implements Runnable {
+
+	private int trainCount = 100;
+	private Object  oj= new Object();
+	public boolean flag = true;
+	
+	public void run(){
+		
+		if (flag) {
+		   while (trainCount > 0) {
+			synchronized (this) {
+				try {
+					Thread.sleep(10);
+				} catch (Exception e) {
+					// TODO: handle exception
+				}
+				if (trainCount>0) {
+					System.out.println(Thread.currentThread().getName()+","+"出售第"+(100-trainCount+1)+"票");
+					trainCount--;
+				}
+			}
+		}
+		     
+		}else {
+			while (trainCount>0) {
+				sale();
+			}
+		}
+	
+	}
+	
+	
+	public synchronized void sale(){
+		
+		try {
+			Thread.sleep(100);
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+		
+		if (trainCount>0) {
+			System.out.println(Thread.currentThread().getName()+","+"出售第"+(100+1)+"张票");
+			trainCount--;
+		}
+		
+		
+	}
+}
+
+public class Test02 {
+	
+	public static void main(String[] args) throws InterruptedException{
+		
+		TestTh testTh = new TestTh();
+		
+		Thread thread1 = new Thread(testTh,"窗口1");
+		Thread thread2= new Thread(testTh,"窗口2");
+		
+		thread1.start();
+		Thread.sleep(10);
+		
+		testTh.flag=false;
+		
+		thread2.start();
+		
+	}
+	
+	
+}
+
+
+
+

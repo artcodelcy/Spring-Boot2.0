@@ -1,0 +1,18 @@
+###����˿ں�
+server:
+  port: 8000
+###eureka ������Ϣ����
+spring: 
+ application: 
+  name: eureka-server
+eureka:
+  instance:
+    ###ע�ᵽeurekaip��ַ
+    hostname: 127.0.0.1
+  client:
+    serviceUrl:
+      defaultZone: http://127.0.0.1:8100/eureka/,http://127.0.0.1:8200/eureka/
+###��Ϊ�Լ���Ϊע�����ģ�����Ҫ�Լ�ע���Լ�
+    register-with-eureka: true
+###��Ϊ�Լ���Ϊע�����ģ�����Ҫ��������
+    fetch-registry: true

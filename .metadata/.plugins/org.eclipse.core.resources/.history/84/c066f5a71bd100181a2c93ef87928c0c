@@ -1,0 +1,15 @@
+package test;
+
+public class Count{
+    Lock lock = new Lock();
+    public void print(){
+        lock.lock();
+        doAdd();
+        lock.unlock();
+    }
+    public void doAdd(){
+        lock.lock();
+        //do something
+        lock.unlock();
+    }
+}

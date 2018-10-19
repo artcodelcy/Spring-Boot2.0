@@ -1,0 +1,25 @@
+package test;
+
+import test.Test13.Data;
+
+public static class FutureData implements Data{
+
+	public volatile static boolean ISFLAFG = false;
+	private RealData realData;
+	
+	public synchronized void setRealData(RealData realData) {
+		if (ISFLAFG) {
+			return;
+		}
+		this.realData=realData;
+		ISFLAFG=true;
+		notify();
+	}
+	
+	@Override
+	public String getRequest() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+		
+}

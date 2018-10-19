@@ -1,0 +1,78 @@
+package test;
+
+import java.util.concurrent.locks.Condition;
+
+class Res1{
+	
+	public String userSesx;
+	public String userName;
+}
+class IntThread extends Thread {
+
+    private Res1 res;
+    
+     public IntThread(Res1 res){
+    	this.res = res;
+    }
+	public void run(){
+		int count = 0;
+		while(true){
+			synchronized (res) {
+				if (count ==0) {
+					res.userName="joe";
+					res.userSesx="boy";
+				}else {
+					res.userName="Lucy";
+					res.userSesx="girl";
+					
+				}
+				count=(count+1)%2;
+			}
+			
+		}
+		
+		
+		
+	}
+		
+}
+
+class OutThread  extends Thread{
+	private Res1 res;
+	private Condition condition;
+	public OutThread(Res1 res,Condition condition) {
+		this.res = res;
+		this.condition=condition;
+	}
+	
+	public void run(){
+		while (true) {
+			synchronized (res) {
+				System.out.println(res.userName+"---"+res.userSesx);
+			}
+		
+		}
+	}
+	
+}
+public class Test05{
+	
+	public static void main(String[] args){
+		Res1 res1 = new Res1();
+		IntThread intThread = new IntThread(res1);
+		OutThread outThread = new OutThread(res1);
+		intThread.start();
+		outThread.start();
+	}
+	
+	
+}
+
+
+
+
+
+
+
+
+

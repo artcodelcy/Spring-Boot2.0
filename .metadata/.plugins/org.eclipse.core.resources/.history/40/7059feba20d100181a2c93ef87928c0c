@@ -1,0 +1,93 @@
+package test;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantReadWriteLock;
+
+public class Cache {
+
+	 static Map<String, Object> map = new HashMap<String, Object>();
+	 static ReentrantReadWriteLock rwl =  new ReentrantReadWriteLock();
+	 static Lock r = rwl.readLock();
+	 static Lock w = rwl.writeLock();
+		
+	 public static final Object get(String key){
+		 r.lock();
+		 try {
+			System.out.println("正在做读操作，key"+key+"开始");
+			Thread.sleep(100);
+			Object object = map.get(key);
+			System.out.println("正在做读操作，key"+key+"结束");
+			System.out.println();
+			return object;
+		} catch (Exception e) {
+			// TODO: handle exception
+		} finally {
+			r.unlock();
+		}
+		 return key;
+	 }
+	 
+	 
+	 public static final Object put(String key, Object value){
+		  w.lock();
+		  try {
+			  System.out.println("正在做写入的操作，key"+key+",value"+value+"开始");
+			  Thread.sleep(100);
+			  Object object = map.put(key, value);
+			  System.out.println("正在做鞋的操作，key"+key+",value"+value+"结束");
+			  System.out.println();
+			  return object;
+		} catch (Exception e) {
+			// TODO: handle exception
+		}finally {
+			w.unlock();
+		}
+		  return value;
+	 }
+	 
+	public static final void clear(){
+		w.lock();
+	    try {
+			map.clear();
+		} catch (Exception e) {
+			// TODO: handle exception
+			w.unlock();
+		}
+		
+		
+		
+	}
+	
+	public static void main(String[] args){
+		new Thread(new Runnable() {
+			
+			@Override
+			public void run() {
+			   for(int i =0; i<10 ;i++){
+				   Cache.put(i+"", i+"");
+			   }
+				
+			}
+		}).start();
+		
+		new Thread(new Runnable() {
+			
+			@Override
+			public void run() {
+				for(int i=0; i<10; i++){
+					Cache.get(i+"");
+				}
+				
+			}
+		}).start();
+		
+		
+		
+		
+	}
+	
+	
+	
+}

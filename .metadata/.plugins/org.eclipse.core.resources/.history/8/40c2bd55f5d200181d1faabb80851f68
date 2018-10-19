@@ -1,0 +1,8 @@
+package com.toov5.jdbc;
+
+import org.apache.ibatis.annotations.Param;
+
+
+public interface UserService {
+	int insert(@Param("name") String name, @Param("age") Integer age);
+}

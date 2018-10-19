@@ -1,0 +1,15 @@
+package com.toov5.app;
+
+import org.mybatis.spring.annotation.MapperScan;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+
+@ComponentScan(basePackages="com.toov5")
+@MapperScan(basePackages="com.toov5.mapper") //所以mapper没有加注解哈 可以扫描到 注解+反射 
+@SpringBootApplication
+public class app {
+  public static void main(String[] args){
+	  SpringApplication.run(app.class, args);
+  }
+}

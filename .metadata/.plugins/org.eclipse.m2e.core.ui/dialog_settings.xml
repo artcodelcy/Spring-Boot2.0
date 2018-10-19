@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="jdbcTemplate"/>
+			<item value="ErrorCatch"/>
+			<item value="com.toov5.jsp"/>
+			<item value="Springboot-jsp"/>
+			<item value="springboot-frameworker"/>
+			<item value="com.toov5.com"/>
+			<item value="com.joe.parent"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="com.toov5.jdbc"/>
+			<item value="com.toov5.ErrorCatch"/>
+			<item value="springbootjsp"/>
+			<item value="com.toov5.jsp"/>
+			<item value="com.toov5.frameworker"/>
+			<item value="springboot-helloworld"/>
+			<item value="memberservice-impl"/>
+			<item value="api-services"/>
+			<item value="memberservice"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item value="480" key="width"/>
+		<item value="807" key="x"/>
+		<item value="216" key="y"/>
+		<item value="450" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\JgPro\jieya\0029-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-微服务框架-基于SpringBoot2.0版本框架-多数据源分布式事务管理(jta+atomikos)\上课代码\itmayiedu_day29_springboot_mybatis03"/>
+			<item value="D:\JgPro\jieya\0029-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-微服务框架-基于SpringBoot2.0版本框架-多数据源分布式事务管理(jta+atomikos)\上课代码\itmayiedu_day29_springboot_mybatis02"/>
+			<item value="D:\JgPro\jieya\0029-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-微服务框架-基于SpringBoot2.0版本框架-多数据源分布式事务管理(jta+atomikos)\上课代码\itmayiedu_day29_springboot_mybatis01"/>
+			<item value="D:\JgPro\jieya"/>
+			<item value="E:\BaiduNetdiskDownload\美特\springCloud\0076-(每特教育&amp;每特学院&amp;蚂蚁课堂)-4期-微服务技术-SpringCloud-分布式配置中心\bkcode"/>
+			<item value="E:\BaiduNetdiskDownload\美特\springCloud\0076-(每特教育&amp;每特学院&amp;蚂蚁课堂)-4期-微服务技术-SpringCloud-分布式配置中心\beikedaima"/>
+			<item value="E:\BaiduNetdiskDownload\美特\springCloud\0075-(每特教育&amp;每特学院&amp;蚂蚁课堂)-4期-微服务技术-SpringCloud-Ribbon负载均衡原理与Feign客户端\上课代码\springcloud2.0-itmayiedu-parent"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="memberservice-impl"/>
+			<item value="orderservice-impl"/>
+			<item value="orderservice"/>
+			<item value="memberservice"/>
+			<item value="api-services"/>
+			<item value="api-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\JgPro\frameworkerTest\src\main\resources\templates\index.ftl"/>
+			<item value="D:\JgPro\jieya\0029-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-微服务框架-基于SpringBoot2.0版本框架-多数据源分布式事务管理(jta+atomikos)\上课代码\itmayiedu_day29_springboot_mybatis02\src\main\java\com\itmayiedu\datasource\DataSource1Config.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

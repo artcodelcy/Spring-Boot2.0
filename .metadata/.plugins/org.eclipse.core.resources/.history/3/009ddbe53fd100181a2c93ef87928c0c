@@ -1,0 +1,16 @@
+package test;
+
+public class Test {
+
+  public static void main(String[] args){
+	  
+	 Class<?> forname = Class.forName("test.test16");
+	 Object instance = forname.newInstance();
+	 
+	  
+	  
+	  
+  }
+	
+	
+}

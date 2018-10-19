@@ -1,0 +1,24 @@
+package com.toov5.error;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.web.bind.annotation.ExceptionHandler;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+//@ControllerAdvice(basePackages="com.toov5.ErrorCatch")  //SpringBoot的异常切入点。此包下的包揽了哈
+@ControllerAdvice(
+public class GlobalException {
+   @ExceptionHandler(RuntimeException.class)
+   @ResponseBody  //返回jsoon给客户端
+   public Map<String, Object> errorResult(){
+	   Map<String, Object> map = new HashMap<String, Object>();
+	   map.put("errorCode", "666");
+	   map.put("errorMsg", "AOP全局捕获异常：不好意思啊");
+	   return map;
+	   
+   }
+	
+	
+}

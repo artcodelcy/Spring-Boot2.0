@@ -1,0 +1,7 @@
+package com.toov5.mapper;
+
+public class UserMapperTest01 {
+	@Insert("insert into users values(null,#{name},#{age});")
+	public int addUser(@Param("name") String name, @Param("age") Integer age);
+
+}

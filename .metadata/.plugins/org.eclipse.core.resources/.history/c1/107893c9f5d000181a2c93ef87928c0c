@@ -1,0 +1,21 @@
+package test;
+
+import java.util.concurrent.ConcurrentLinkedDeque;
+
+import javax.xml.namespace.QName;
+
+public class Test11 {
+
+	public static void main(String[] args){
+		ConcurrentLinkedDeque<String> concurrentLinkedDeque = new ConcurrentLinkedDeque<>();
+		
+		concurrentLinkedDeque.offer("¼ÓÓÍ°¡");
+		concurrentLinkedDeque.offer("¼ÌÐø");
+		System.out.println(concurrentLinkedDeque.poll());
+		
+		
+	}
+	
+	
+	
+}

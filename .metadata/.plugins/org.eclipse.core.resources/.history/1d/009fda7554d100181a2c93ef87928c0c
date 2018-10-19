@@ -1,0 +1,45 @@
+package test;
+
+
+public class Test17 {
+
+	 abstract class BankTemplateMethod{
+		
+	public void takeNumber(){
+		System.out.println("取号队列...");
+	}
+	
+	abstract void transact();
+	
+	public void evaluate(){
+		System.out.println("反馈评价....");
+	}
+	
+	public void process(){
+		takeNumber();
+		transact();
+		evaluate();
+	}
+	
+		
+	}
+
+	 class DrawMoney extends BankTemplateMethod{
+		
+		@Override
+		void transact() {
+			System.out.println("我要取款");
+			
+		}
+	}
+	
+	
+	public static void main(String[] args){
+		BankTemplateMethod bankTemplateMethod = new DrawMoney();
+		bankTemplateMethod.process();
+	}
+	
+	
+	
+	
+}

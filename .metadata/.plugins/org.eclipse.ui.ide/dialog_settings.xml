@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\JgPro\jieya\0029-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-微服务框架-基于SpringBoot2.0版本框架-多数据源分布式事务管理(jta+atomikos)\上课代码\itmayiedu_day29_springboot_mybatis02"/>
+			<item value="D:\JgPro\jieya\0029-(每特教育&amp;每特学院&amp;蚂蚁课堂)-3期-微服务框架-基于SpringBoot2.0版本框架-多数据源分布式事务管理(jta+atomikos)\上课代码\itmayiedu_day29_springboot_mybatis01"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

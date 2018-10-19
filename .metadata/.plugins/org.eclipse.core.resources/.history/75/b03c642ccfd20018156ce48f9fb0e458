@@ -1,0 +1,16 @@
+package com.toov5.ErrorCatch;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+//以后经常做为服务异常捕获，要经常用到这个注解
+public class ErrorCatch {
+    @RequestMapping("/getUser")
+	public String getUser(int i ){
+		int j = j/i;
+		return "ok"+j;
+		
+	}
+	
+}

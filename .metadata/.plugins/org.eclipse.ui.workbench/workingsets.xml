@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537980172536_1" label="springcloud-eureka" name="springcloud-eureka">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/member/src/main/resources/application.yml" type="1"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537980406264_2" label="springcloud-eurekatest" name="springcloud-eurekatest"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1538038379010_3" label="springcloud2.0-itmayiedu-parent" name="springcloud2.0-itmayiedu-parent"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1537609710881_0" label="Window Working Set" name="Aggregate for window 1537609710880"/>
+</workingSetManager>

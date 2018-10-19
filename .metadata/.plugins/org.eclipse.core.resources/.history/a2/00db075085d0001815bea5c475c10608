@@ -1,0 +1,36 @@
+package test;
+
+class Res{
+	
+	public String userSesx;
+	public String userName;
+	
+}
+
+
+class IntThread extends Thread {
+
+    private Res res;
+    
+     public IntThread(Res res){
+    	this.res = res;
+    }
+	public void run(){
+		int count = 0;
+		while(true){
+			if (count ==0) {
+				res.userName="joe";
+				res.userSesx="boy";
+			}else {
+				res.userName="Lucy";
+				res.userSesx="girl";
+				
+			}
+		}
+		
+		
+		
+	}
+	
+	
+}
