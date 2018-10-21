@@ -1,0 +1,5 @@
+package com.toov5.servlet;
+
+public class IndexServlet {
+
+}

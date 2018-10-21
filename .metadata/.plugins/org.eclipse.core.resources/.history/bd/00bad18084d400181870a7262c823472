@@ -1,0 +1,11 @@
+@RestController
+public class IndexController {
+	@Autowired
+	private UserService userService;
+
+	@RequestMapping("/findUserList")
+	public PageInfo<User> findUserList(int page, int size) {
+		return userService.findUserList(page, size);
+	}
+
+}

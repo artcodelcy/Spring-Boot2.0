@@ -1,0 +1,10 @@
+package com.toov5;
+@MapperScan("com.itmayiedu.mapper")
+@SpringBootApplication
+public class PageHelper {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PageHelper.class, args);
+	}
+
+}

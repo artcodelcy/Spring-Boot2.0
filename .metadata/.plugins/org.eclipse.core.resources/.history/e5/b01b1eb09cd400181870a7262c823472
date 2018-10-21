@@ -1,0 +1,32 @@
+package com.toov5.tomcat;
+
+import org.apache.catalina.core.StandardContext;
+import org.apache.catalina.startup.Tomcat;
+import org.apache.catalina.startup.Tomcat.FixContextListener;
+
+//使用Java创建Tomcat容器
+//tomcat 底层执行程序  最终执行servlet
+//Springmvc底层使用servlet
+
+public class Test {
+       private static int PORT = 8080; //端口
+       private static String CONTEX_PATH = "/toov5";  //项目访问名称
+	   public static void main(String[] args) {
+		Tomcat tomcatServer =  new Tomcat();
+		tomcatServer.setPort(PORT);  //指定端口号
+		//是否设置自动部署
+		tomcatServer.getHost().setAutoDeploy(false);
+		//创建上下文,拿到上下文后就可以设置整个访问地址了
+		StandardContext standardContext = new StandardContext();
+		standardContext.setPath(CONTEX_PATH); 
+		//监听上下文
+		standardContext.addLifecycleListener(new FixContextListener());
+		standardContext.addLifecycleListener(new FixContextListener());
+		// tomcat容器添加standardContext
+		tomcatServer.getHost().addChild(standardContext);
+		// 创建servlet
+		tomcatServer.addServlet(CONTEX_PATH, "IndexServet", new IndexServet());
+
+	}
+
+}

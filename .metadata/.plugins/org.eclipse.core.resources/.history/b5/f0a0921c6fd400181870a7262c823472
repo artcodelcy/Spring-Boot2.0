@@ -1,0 +1,5 @@
+package com.toov5.controller;
+
+public class IndexController {
+
+}

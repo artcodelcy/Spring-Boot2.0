@@ -1,0 +1,29 @@
+package com.toov5.controller;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Index {
+    @Value("${information.age}")
+    private String age;
+	
+    @Value("${information.age.record}")
+    private String record;
+    
+	@RequestMapping("/index")
+	public String index(){
+		return "ok";
+	}
+	
+	@RequestMapping("/getAge")
+	public String getInformation(){
+		return age;
+	}
+	
+	@RequestMapping("/getRecord")
+	public String getInformation(){
+		
+	
+}

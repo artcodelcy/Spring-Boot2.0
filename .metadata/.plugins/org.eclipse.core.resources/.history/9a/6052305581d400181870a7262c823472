@@ -1,0 +1,9 @@
+package com.toov5.adminUiClient;
+@SpringBootApplication
+public class AppClinet {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppClinet.class, args);
+	}
+
+}

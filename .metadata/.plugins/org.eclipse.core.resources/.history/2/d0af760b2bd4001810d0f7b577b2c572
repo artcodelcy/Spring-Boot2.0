@@ -1,0 +1,7 @@
+server:
+  port: 80
+ 
+information:
+  name: toov5
+  age: 30
+    

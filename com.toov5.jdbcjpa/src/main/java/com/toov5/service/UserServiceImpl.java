@@ -1,0 +1,16 @@
+package com.toov5.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.stereotype.Service;
+
+@Service   //×¢²áµ½Spring ÈÝÆ÷ÖÐÈ¥ 
+public class UserServiceImpl  {
+	@Autowired
+	private JdbcTemplate jdbcTemplate;
+	public  String createUser(String name, Integer age) {
+		jdbcTemplate.update("insert into users values(null,?,?);", name, age);
+		return "success";
+		
+	}
+}

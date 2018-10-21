@@ -1,0 +1,12 @@
+package com.toov5.tomcat;
+
+
+//使用Java创建Tomcat容器
+//tomcat 底层执行程序  最终执行servlet
+//Springmvc底层使用servlet
+
+public class Test {
+ 
+	   
+
+}

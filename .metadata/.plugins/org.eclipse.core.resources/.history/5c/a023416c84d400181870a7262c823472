@@ -1,0 +1,4 @@
+public interface UserMapper {
+	@Select("SELECT * FROM USERS ")
+	List<User> findUserList();
+}

@@ -1,0 +1,11 @@
+package com.toov5.service;
+//@ComponentScan(basePackages = { "com.itmayiedu.controller", "com.itmayiedu.service" })
+//@EnableAutoConfiguration
+@SpringBootApplication
+public class App {
+
+	public static void main(String[] args) {
+		SpringApplication.run(App.class, args);
+	}
+
+}
