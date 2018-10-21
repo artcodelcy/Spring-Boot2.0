@@ -14,12 +14,12 @@ import com.toov5.mapper.UserMapper;
 public class UserService {
 	@Autowired
 	private UserMapper userMapper;
-	//µ±Ç°Ò³ Ò»Ò³¶àÉÙ¸ö  mysqlÍ¨¹ılimit·ÖÒ³µÄ¹ş
+	//å½“å‰é¡µ ä¸€é¡µå¤šå°‘ä¸ª  mysqlé€šè¿‡limitåˆ†é¡µçš„å“ˆ
 	public PageInfo<User> findUserList(int page, int size) {
-		// ¿ªÆô·ÖÒ³²å¼ş,·ÅÔÚ²éÑ¯Óï¾äÉÏÃæ °ïÖúÉú³É·ÖÒ³Óï¾ä
-		PageHelper.startPage(page, size); //µ×²ãÊµÏÖÔ­Àí²ÉÓÃ¸ÄĞ´Óï¾ä   ½«ÏÂÃæµÄ·½·¨ÖĞµÄsqlÓï¾ä»ñÈ¡µ½È»ºó×ö¸öÆ´½Ó limit  AOPjishu 
+		 // å¼€å¯åˆ†é¡µæ’ä»¶,æ”¾åœ¨æŸ¥è¯¢è¯­å¥ä¸Šé¢ å¸®åŠ©ç”Ÿæˆåˆ†é¡µè¯­å¥
+		PageHelper.startPage(page, size);  //åº•å±‚å®ç°åŸç†é‡‡ç”¨æ”¹å†™è¯­å¥   å°†ä¸‹é¢çš„æ–¹æ³•ä¸­çš„sqlè¯­å¥è·å–åˆ°ç„¶ååšä¸ªæ‹¼æ¥ limit  AOPjishu 
 		List<User> listUser = userMapper.findUserList();
-		// ·â×°·ÖÒ³Ö®ºóµÄÊı¾İ  ·µ»Ø¸ø¿Í»§¶ËÕ¹Ê¾  PageInfo×öÁËÒ»Ğ©·â×° ×÷ÎªÒ»¸öÀà
+		// å°è£…åˆ†é¡µä¹‹åçš„æ•°æ®  è¿”å›ç»™å®¢æˆ·ç«¯å±•ç¤º  PageInfoåšäº†ä¸€äº›å°è£… ä½œä¸ºä¸€ä¸ªç±»
 		PageInfo<User> pageInfoUser = new PageInfo<User>(listUser);
 		return pageInfoUser;
 	}

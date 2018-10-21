@@ -7807,3 +7807,1079 @@ Caused by: java.io.FileNotFoundException: D:\JgPro\jieya\0029-(每特教育&每特学院
 2018-10-20 18:48:50,406 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-10-20 18:48:50,408 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-10-20 18:48:50,408 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:36:02,703 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringbootActuator:com.toov5.Actuator:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.Actuator\pom.xml.
+2018-10-20 21:36:04,344 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.Actuator/src/main/java
+2018-10-20 21:36:04,346 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.Actuator/src/main/resources
+2018-10-20 21:36:04,347 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.Actuator/src/test/java
+2018-10-20 21:36:04,347 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.Actuator/src/test/resources
+2018-10-20 21:36:05,408 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 21:36:05,428 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:36:05,431 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 21:36:05,433 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:40:18,263 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringbootActuator:com.toov5.Actuator:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.Actuator\pom.xml.
+2018-10-20 21:40:20,150 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-actuator/2.0.0.RELEASE/spring-boot-starter-actuator-2.0.0.RELEASE.pom
+2018-10-20 21:40:20,673 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-actuator/2.0.0.RELEASE/spring-boot-starter-actuator-2.0.0.RELEASE.pom
+2018-10-20 21:40:21,095 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.0.RELEASE/spring-boot-actuator-autoconfigure-2.0.0.RELEASE.pom
+2018-10-20 21:40:21,739 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.0.RELEASE/spring-boot-actuator-autoconfigure-2.0.0.RELEASE.pom
+2018-10-20 21:40:22,153 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator/2.0.0.RELEASE/spring-boot-actuator-2.0.0.RELEASE.pom
+2018-10-20 21:40:22,827 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator/2.0.0.RELEASE/spring-boot-actuator-2.0.0.RELEASE.pom
+2018-10-20 21:40:23,245 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.pom
+2018-10-20 21:40:24,400 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.pom
+2018-10-20 21:40:39,706 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.pom
+2018-10-20 21:40:39,915 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.pom
+2018-10-20 21:40:39,961 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.pom
+2018-10-20 21:40:41,008 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/hdrhistogram/HdrHistogram/2.1.10/HdrHistogram-2.1.10.pom
+2018-10-20 21:40:41,390 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/hdrhistogram/HdrHistogram/2.1.10/HdrHistogram-2.1.10.pom
+2018-10-20 21:40:43,866 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/hdrhistogram/HdrHistogram/2.1.10/HdrHistogram-2.1.10.pom
+2018-10-20 21:40:44,400 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.pom
+2018-10-20 21:40:44,793 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.pom
+2018-10-20 21:40:45,734 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.pom
+2018-10-20 21:40:46,396 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-actuator/2.0.0.RELEASE/spring-boot-starter-actuator-2.0.0.RELEASE.jar
+2018-10-20 21:40:46,903 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-actuator/2.0.0.RELEASE/spring-boot-starter-actuator-2.0.0.RELEASE.jar
+2018-10-20 21:40:47,301 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.0.RELEASE/spring-boot-actuator-autoconfigure-2.0.0.RELEASE.jar
+2018-10-20 21:40:49,006 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.0.RELEASE/spring-boot-actuator-autoconfigure-2.0.0.RELEASE.jar
+2018-10-20 21:40:49,495 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator/2.0.0.RELEASE/spring-boot-actuator-2.0.0.RELEASE.jar
+2018-10-20 21:40:50,595 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator/2.0.0.RELEASE/spring-boot-actuator-2.0.0.RELEASE.jar
+2018-10-20 21:40:50,975 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.jar
+2018-10-20 21:40:52,176 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/hdrhistogram/HdrHistogram/2.1.10/HdrHistogram-2.1.10.jar
+2018-10-20 21:40:52,559 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.jar
+2018-10-20 21:40:53,410 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.jar
+2018-10-20 21:40:54,520 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/hdrhistogram/HdrHistogram/2.1.10/HdrHistogram-2.1.10.jar
+2018-10-20 21:40:54,931 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.jar
+2018-10-20 21:40:55,310 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.jar
+2018-10-20 21:40:57,597 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/hdrhistogram/HdrHistogram/2.1.10/HdrHistogram-2.1.10.jar
+2018-10-20 21:40:57,880 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.jar
+2018-10-20 21:40:57,943 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.jar
+2018-10-20 21:40:58,136 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/micrometer/micrometer-core/1.0.1/micrometer-core-1.0.1.jar
+2018-10-20 21:40:59,174 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:40:59,178 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:40:59,179 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:40:59,183 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:40:59,184 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:41:01,904 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:41:01,906 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:41:01,907 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:41:01,910 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:41:01,911 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:42:42,136 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:42:42,138 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 21:42:42,156 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:42:42,160 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:42:42,161 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:46:55,907 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:46:55,908 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:46:55,913 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 21:46:55,938 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:46:55,939 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:47:01,629 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:47:01,630 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:47:01,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:47:01,639 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:47:01,641 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:47:06,497 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:47:06,499 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 21:47:06,502 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:47:06,513 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:47:06,513 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:49:19,547 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:49:19,550 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 21:49:19,556 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:49:19,563 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:49:19,563 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:50:32,345 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:50:32,345 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 21:50:32,349 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:50:32,365 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:50:32,365 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:51:07,500 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:51:07,501 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 21:51:07,502 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 21:51:07,504 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 21:51:07,504 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:31:20,643 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:31:20,644 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 22:31:20,646 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:31:20,648 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:31:20,649 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:33:59,676 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:33:59,676 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 22:33:59,678 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:33:59,679 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:33:59,680 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:34:46,557 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:34:46,558 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 22:34:46,560 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:34:46,564 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:34:46,565 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:37:31,461 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:37:31,462 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 22:37:31,465 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:37:31,467 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:37:31,467 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:37:51,155 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:37:51,155 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 22:37:51,157 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:37:51,165 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:37:51,167 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:41:05,924 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:41:05,924 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 22:41:05,925 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:41:05,928 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:41:05,928 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:52:09,968 [Worker-50] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUIServer:com.toov5.adminUiServer:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiServer\pom.xml.
+2018-10-20 22:52:11,378 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.adminUiServer/src/main/java
+2018-10-20 22:52:11,379 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.adminUiServer/src/main/resources
+2018-10-20 22:52:11,379 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.adminUiServer/src/test/java
+2018-10-20 22:52:11,379 [Worker-50] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.adminUiServer/src/test/resources
+2018-10-20 22:52:12,105 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 22:52:12,114 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:52:12,120 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 22:52:12,122 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:52:56,040 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUIServer:com.toov5.adminUiServer:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiServer\pom.xml.
+2018-10-20 22:52:57,666 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.pom
+2018-10-20 22:52:58,793 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.pom
+2018-10-20 22:53:00,298 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.pom
+2018-10-20 22:53:00,604 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.pom
+2018-10-20 22:53:01,183 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.pom
+2018-10-20 22:53:02,428 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-build/2.0.0/spring-boot-admin-build-2.0.0.pom
+2018-10-20 22:53:03,674 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-build/2.0.0/spring-boot-admin-build-2.0.0.pom
+2018-10-20 22:53:05,096 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-build/2.0.0/spring-boot-admin-build-2.0.0.pom
+2018-10-20 22:53:05,319 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-build/2.0.0/spring-boot-admin-build-2.0.0.pom
+2018-10-20 22:53:05,843 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-build/2.0.0/spring-boot-admin-build-2.0.0.pom
+2018-10-20 22:53:06,985 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-dependencies/2.0.0/spring-boot-admin-dependencies-2.0.0.pom
+2018-10-20 22:53:08,175 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-dependencies/2.0.0/spring-boot-admin-dependencies-2.0.0.pom
+2018-10-20 22:53:09,577 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-dependencies/2.0.0/spring-boot-admin-dependencies-2.0.0.pom
+2018-10-20 22:53:09,786 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-dependencies/2.0.0/spring-boot-admin-dependencies-2.0.0.pom
+2018-10-20 22:53:09,896 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-dependencies/2.0.0/spring-boot-admin-dependencies-2.0.0.pom
+2018-10-20 22:53:11,089 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.pom
+2018-10-20 22:53:12,220 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.pom
+2018-10-20 22:53:13,695 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.pom
+2018-10-20 22:53:13,804 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.pom
+2018-10-20 22:53:13,887 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.pom
+2018-10-20 22:53:15,225 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/2.0.0.RELEASE/spring-boot-starter-webflux-2.0.0.RELEASE.pom
+2018-10-20 22:53:15,651 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/2.0.0.RELEASE/spring-boot-starter-webflux-2.0.0.RELEASE.pom
+2018-10-20 22:53:16,118 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/2.0.0.RELEASE/spring-boot-starter-reactor-netty-2.0.0.RELEASE.pom
+2018-10-20 22:53:16,571 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/2.0.0.RELEASE/spring-boot-starter-reactor-netty-2.0.0.RELEASE.pom
+2018-10-20 22:53:16,984 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.pom
+2018-10-20 22:53:18,102 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.pom
+2018-10-20 22:53:19,576 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.pom
+2018-10-20 22:53:19,656 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.pom
+2018-10-20 22:53:19,708 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.pom
+2018-10-20 22:53:20,915 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.pom
+2018-10-20 22:53:22,052 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.pom
+2018-10-20 22:53:23,797 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.pom
+2018-10-20 22:53:24,128 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.pom
+2018-10-20 22:53:24,225 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.pom
+2018-10-20 22:53:25,764 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.pom
+2018-10-20 22:53:27,034 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.pom
+2018-10-20 22:53:28,432 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.pom
+2018-10-20 22:53:28,527 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.pom
+2018-10-20 22:53:28,764 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.pom
+2018-10-20 22:53:29,955 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.pom
+2018-10-20 22:53:31,081 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.pom
+2018-10-20 22:53:32,636 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.pom
+2018-10-20 22:53:32,715 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.pom
+2018-10-20 22:53:32,905 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.pom
+2018-10-20 22:53:34,018 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.pom
+2018-10-20 22:53:35,146 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.pom
+2018-10-20 22:53:37,554 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.pom
+2018-10-20 22:53:37,668 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.pom
+2018-10-20 22:53:37,861 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.pom
+2018-10-20 22:53:39,656 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.pom
+2018-10-20 22:53:40,793 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.pom
+2018-10-20 22:53:43,040 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.pom
+2018-10-20 22:53:43,109 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.pom
+2018-10-20 22:53:43,178 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.pom
+2018-10-20 22:53:44,508 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/spring-webflux/5.0.4.RELEASE/spring-webflux-5.0.4.RELEASE.pom
+2018-10-20 22:53:44,966 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/5.0.4.RELEASE/spring-webflux-5.0.4.RELEASE.pom
+2018-10-20 22:53:45,415 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.pom
+2018-10-20 22:53:46,562 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.pom
+2018-10-20 22:53:49,921 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.pom
+2018-10-20 22:53:50,047 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.pom
+2018-10-20 22:53:50,133 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.pom
+2018-10-20 22:53:51,275 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/synchronoss/cloud/nio-multipart/1.1.0/nio-multipart-1.1.0.pom
+2018-10-20 22:53:52,219 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/synchronoss/cloud/nio-multipart/1.1.0/nio-multipart-1.1.0.pom
+2018-10-20 22:53:54,649 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/synchronoss/cloud/nio-multipart/1.1.0/nio-multipart-1.1.0.pom
+2018-10-20 22:53:54,808 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-multipart/1.1.0/nio-multipart-1.1.0.pom
+2018-10-20 22:53:54,898 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-multipart/1.1.0/nio-multipart-1.1.0.pom
+2018-10-20 22:53:56,033 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.pom
+2018-10-20 22:53:57,204 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.pom
+2018-10-20 22:53:58,620 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.pom
+2018-10-20 22:53:58,740 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.pom
+2018-10-20 22:53:58,806 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.pom
+2018-10-20 22:53:59,937 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.RELEASE/spring-boot-starter-thymeleaf-2.0.0.RELEASE.pom
+2018-10-20 22:54:00,342 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.RELEASE/spring-boot-starter-thymeleaf-2.0.0.RELEASE.pom
+2018-10-20 22:54:00,909 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.pom
+2018-10-20 22:54:02,157 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.pom
+2018-10-20 22:54:03,625 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.pom
+2018-10-20 22:54:03,769 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.pom
+2018-10-20 22:54:03,991 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.pom
+2018-10-20 22:54:05,131 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.pom
+2018-10-20 22:54:06,283 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.pom
+2018-10-20 22:54:07,758 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.pom
+2018-10-20 22:54:08,006 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.pom
+2018-10-20 22:54:08,076 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.pom
+2018-10-20 22:54:09,235 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.pom
+2018-10-20 22:54:10,369 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.pom
+2018-10-20 22:54:11,850 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.pom
+2018-10-20 22:54:11,929 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.pom
+2018-10-20 22:54:12,121 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.pom
+2018-10-20 22:54:13,234 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.pom
+2018-10-20 22:54:14,355 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.pom
+2018-10-20 22:54:15,794 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.pom
+2018-10-20 22:54:15,855 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.pom
+2018-10-20 22:54:15,921 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.pom
+2018-10-20 22:54:17,041 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.pom
+2018-10-20 22:54:18,207 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.pom
+2018-10-20 22:54:19,632 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.pom
+2018-10-20 22:54:19,687 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.pom
+2018-10-20 22:54:19,815 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.pom
+2018-10-20 22:54:20,944 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/ognl/ognl/3.1.12/ognl-3.1.12.pom
+2018-10-20 22:54:22,057 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/ognl/ognl/3.1.12/ognl-3.1.12.pom
+2018-10-20 22:54:23,484 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/ognl/ognl/3.1.12/ognl-3.1.12.pom
+2018-10-20 22:54:23,601 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/ognl/ognl/3.1.12/ognl-3.1.12.pom
+2018-10-20 22:54:23,658 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/ognl/ognl/3.1.12/ognl-3.1.12.pom
+2018-10-20 22:54:24,801 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2018-10-20 22:54:25,939 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2018-10-20 22:54:27,524 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2018-10-20 22:54:27,732 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2018-10-20 22:54:27,836 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom
+2018-10-20 22:54:29,013 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.pom
+2018-10-20 22:54:30,155 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.pom
+2018-10-20 22:54:31,575 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.pom
+2018-10-20 22:54:31,629 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.pom
+2018-10-20 22:54:31,719 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.pom
+2018-10-20 22:54:37,978 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.pom
+2018-10-20 22:54:43,199 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.pom
+2018-10-20 22:54:45,005 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.pom
+2018-10-20 22:54:45,112 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.pom
+2018-10-20 22:54:45,295 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.pom
+2018-10-20 22:54:46,399 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.pom
+2018-10-20 22:54:47,511 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.pom
+2018-10-20 22:54:49,689 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.pom
+2018-10-20 22:54:49,878 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.pom
+2018-10-20 22:54:50,027 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.pom
+2018-10-20 22:54:51,182 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/jolokia/jolokia-agent-parent/1.5.0/jolokia-agent-parent-1.5.0.pom
+2018-10-20 22:54:52,301 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/jolokia/jolokia-agent-parent/1.5.0/jolokia-agent-parent-1.5.0.pom
+2018-10-20 22:54:54,314 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/jolokia/jolokia-agent-parent/1.5.0/jolokia-agent-parent-1.5.0.pom
+2018-10-20 22:54:54,417 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia-agent-parent/1.5.0/jolokia-agent-parent-1.5.0.pom
+2018-10-20 22:54:54,549 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia-agent-parent/1.5.0/jolokia-agent-parent-1.5.0.pom
+2018-10-20 22:54:55,677 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/jolokia/jolokia/1.5.0/jolokia-1.5.0.pom
+2018-10-20 22:54:57,325 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/jolokia/jolokia/1.5.0/jolokia-1.5.0.pom
+2018-10-20 22:54:58,727 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/jolokia/jolokia/1.5.0/jolokia-1.5.0.pom
+2018-10-20 22:54:58,907 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia/1.5.0/jolokia-1.5.0.pom
+2018-10-20 22:54:58,988 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia/1.5.0/jolokia-1.5.0.pom
+2018-10-20 22:55:00,872 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-10-20 22:55:02,151 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-10-20 22:55:03,752 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-10-20 22:55:03,843 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-10-20 22:55:03,893 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2018-10-20 22:55:05,014 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
+2018-10-20 22:55:06,143 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
+2018-10-20 22:55:08,920 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
+2018-10-20 22:55:08,990 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
+2018-10-20 22:55:09,110 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.pom
+2018-10-20 22:55:10,512 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.jar
+2018-10-20 22:55:11,640 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.jar
+2018-10-20 22:55:12,816 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.RELEASE/spring-boot-starter-thymeleaf-2.0.0.RELEASE.jar
+2018-10-20 22:55:13,200 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-thymeleaf/2.0.0.RELEASE/spring-boot-starter-thymeleaf-2.0.0.RELEASE.jar
+2018-10-20 22:55:13,648 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.jar
+2018-10-20 22:55:14,638 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.jar
+2018-10-20 22:55:15,800 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar
+2018-10-20 22:55:16,964 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.jar
+2018-10-20 22:55:17,900 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.jar
+2018-10-20 22:55:19,196 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.jar
+2018-10-20 22:55:20,314 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.jar
+2018-10-20 22:55:21,498 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/2.0.0.RELEASE/spring-boot-starter-webflux-2.0.0.RELEASE.jar
+2018-10-20 22:55:21,916 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-webflux/2.0.0.RELEASE/spring-boot-starter-webflux-2.0.0.RELEASE.jar
+2018-10-20 22:55:22,363 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/2.0.0.RELEASE/spring-boot-starter-reactor-netty-2.0.0.RELEASE.jar
+2018-10-20 22:55:22,764 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-reactor-netty/2.0.0.RELEASE/spring-boot-starter-reactor-netty-2.0.0.RELEASE.jar
+2018-10-20 22:55:23,176 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.jar
+2018-10-20 22:55:24,315 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.jar
+2018-10-20 22:55:25,617 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.jar
+2018-10-20 22:55:26,917 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.jar
+2018-10-20 22:55:27,905 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.jar
+2018-10-20 22:55:29,022 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.jar
+2018-10-20 22:55:30,149 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/milestone/org/springframework/spring-webflux/5.0.4.RELEASE/spring-webflux-5.0.4.RELEASE.jar
+2018-10-20 22:55:32,132 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webflux/5.0.4.RELEASE/spring-webflux-5.0.4.RELEASE.jar
+2018-10-20 22:55:32,507 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.jar
+2018-10-20 22:55:33,627 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.jar
+2018-10-20 22:55:34,833 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.jar
+2018-10-20 22:55:35,943 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
+2018-10-20 22:55:37,420 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.jar
+2018-10-20 22:55:38,587 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.jar
+2018-10-20 22:55:39,747 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.jar
+2018-10-20 22:55:41,017 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.jar
+2018-10-20 22:55:42,136 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar
+2018-10-20 22:55:43,279 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.jar
+2018-10-20 22:55:44,409 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.jar
+2018-10-20 22:55:45,550 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.jar
+2018-10-20 22:55:46,666 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.jar
+2018-10-20 22:55:47,806 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.jar
+2018-10-20 22:55:48,937 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.jar
+2018-10-20 22:55:50,071 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.jar
+2018-10-20 22:55:51,203 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.jar
+2018-10-20 22:55:52,318 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.jar
+2018-10-20 22:55:53,472 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.jar
+2018-10-20 22:55:54,705 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.jar
+2018-10-20 22:55:55,861 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.jar
+2018-10-20 22:55:57,032 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.jar
+2018-10-20 22:55:58,212 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
+2018-10-20 22:55:59,652 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.jar
+2018-10-20 22:56:01,035 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.jar
+2018-10-20 22:56:02,875 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.jar
+2018-10-20 22:56:05,909 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.jar
+2018-10-20 22:56:07,291 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar
+2018-10-20 22:56:08,676 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.jar
+2018-10-20 22:56:10,976 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.jar
+2018-10-20 22:56:12,345 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.jar
+2018-10-20 22:56:14,646 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.jar
+2018-10-20 22:56:17,184 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.jar
+2018-10-20 22:56:19,898 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.jar
+2018-10-20 22:56:22,269 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.jar
+2018-10-20 22:56:23,755 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.jar
+2018-10-20 22:56:25,148 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.jar
+2018-10-20 22:56:26,623 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.jar
+2018-10-20 22:56:28,197 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.jar
+2018-10-20 22:56:29,634 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.jar
+2018-10-20 22:56:31,139 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.jar
+2018-10-20 22:56:32,613 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
+2018-10-20 22:56:32,930 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.jar
+2018-10-20 22:56:33,125 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-server/2.0.0/spring-boot-admin-starter-server-2.0.0.jar
+2018-10-20 22:56:33,369 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.jar
+2018-10-20 22:56:33,563 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server/2.0.0/spring-boot-admin-server-2.0.0.jar
+2018-10-20 22:56:33,629 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.jar
+2018-10-20 22:56:33,819 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.jar
+2018-10-20 22:56:33,950 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.jar
+2018-10-20 22:56:34,597 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.jar
+2018-10-20 22:56:34,679 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar
+2018-10-20 22:56:34,835 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar
+2018-10-20 22:56:34,910 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.jar
+2018-10-20 22:56:35,068 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.jar
+2018-10-20 22:56:35,333 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.jar
+2018-10-20 22:56:35,400 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/thymeleaf/extras/thymeleaf-extras-java8time/3.0.1.RELEASE/thymeleaf-extras-java8time-3.0.1.RELEASE.jar
+2018-10-20 22:56:35,477 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.jar
+2018-10-20 22:56:35,626 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/addons/reactor-extra/3.1.6.RELEASE/reactor-extra-3.1.6.RELEASE.jar
+2018-10-20 22:56:35,791 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.jar
+2018-10-20 22:56:36,762 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-server-ui/2.0.0/spring-boot-admin-server-ui-2.0.0.jar
+2018-10-20 22:56:36,859 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.jar
+2018-10-20 22:56:37,051 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/projectreactor/ipc/reactor-netty/0.7.5.RELEASE/reactor-netty-0.7.5.RELEASE.jar
+2018-10-20 22:56:37,192 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.jar
+2018-10-20 22:56:37,512 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-http/4.1.22.Final/netty-codec-http-4.1.22.Final.jar
+2018-10-20 22:56:37,740 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.jar
+2018-10-20 22:56:37,824 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-handler-proxy/4.1.22.Final/netty-handler-proxy-4.1.22.Final.jar
+2018-10-20 22:56:37,959 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.jar
+2018-10-20 22:56:38,046 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-codec-socks/4.1.22.Final/netty-codec-socks-4.1.22.Final.jar
+2018-10-20 22:56:38,233 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.jar
+2018-10-20 22:56:38,378 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-epoll/4.1.22.Final/netty-transport-native-epoll-4.1.22.Final.jar
+2018-10-20 22:56:38,452 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.jar
+2018-10-20 22:56:38,581 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/io/netty/netty-transport-native-unix-common/4.1.22.Final/netty-transport-native-unix-common-4.1.22.Final.jar
+2018-10-20 22:56:38,641 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.jar
+2018-10-20 22:56:38,976 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-multipart-parser/1.1.0/nio-multipart-parser-1.1.0.jar
+2018-10-20 22:56:39,204 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.jar
+2018-10-20 22:56:39,292 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/synchronoss/cloud/nio-stream-storage/1.1.3/nio-stream-storage-1.1.3.jar
+2018-10-20 22:56:39,357 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.jar
+2018-10-20 22:56:39,755 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/jolokia/jolokia-core/1.5.0/jolokia-core-1.5.0.jar
+2018-10-20 22:56:39,802 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
+2018-10-20 22:56:39,870 [Worker-47] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar
+2018-10-20 22:56:42,668 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:56:42,668 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:56:42,669 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:56:42,671 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:56:42,671 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:56:43,673 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUIServer:com.toov5.adminUiServer:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiServer\pom.xml.
+2018-10-20 22:56:44,662 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:56:44,663 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:56:44,663 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 22:56:44,665 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 22:56:44,665 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:12:12,086 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:12:12,087 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:12:12,091 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:12:12,098 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:12:12,099 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:12:36,965 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:12:36,966 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:12:36,969 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:12:36,975 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:12:36,976 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:12:43,619 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:12:43,620 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:12:43,623 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:12:43,625 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:12:43,625 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:19:20,090 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:19:20,091 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:19:20,093 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:19:20,095 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:19:20,096 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:19:58,735 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:19:58,735 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:19:58,738 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:19:58,741 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:19:58,742 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:00,902 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUiClient:com.toov5.adminUiClient:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiClient\pom.xml.
+2018-10-20 23:40:01,934 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.adminUiClient/src/main/java
+2018-10-20 23:40:01,934 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.adminUiClient/src/main/resources
+2018-10-20 23:40:01,935 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.adminUiClient/src/test/java
+2018-10-20 23:40:01,935 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.adminUiClient/src/test/resources
+2018-10-20 23:40:02,630 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 23:40:02,638 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:02,644 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-20 23:40:02,648 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:28,369 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUiClient:com.toov5.adminUiClient:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiClient\pom.xml.
+2018-10-20 23:40:29,712 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.pom
+2018-10-20 23:40:30,931 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.pom
+2018-10-20 23:40:32,553 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.pom
+2018-10-20 23:40:32,811 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.pom
+2018-10-20 23:40:32,907 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.pom
+2018-10-20 23:40:33,871 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.pom
+2018-10-20 23:40:35,086 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.pom
+2018-10-20 23:40:36,639 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.pom
+2018-10-20 23:40:36,749 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.pom
+2018-10-20 23:40:36,861 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.pom
+2018-10-20 23:40:38,557 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.jar
+2018-10-20 23:40:39,692 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.jar
+2018-10-20 23:40:40,817 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.jar
+2018-10-20 23:40:41,938 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.jar
+2018-10-20 23:40:43,376 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.jar
+2018-10-20 23:40:45,468 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.jar
+2018-10-20 23:40:45,593 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.jar
+2018-10-20 23:40:45,806 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-starter-client/2.0.0/spring-boot-admin-starter-client-2.0.0.jar
+2018-10-20 23:40:45,992 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.jar
+2018-10-20 23:40:46,092 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/de/codecentric/spring-boot-admin-client/2.0.0/spring-boot-admin-client-2.0.0.jar
+2018-10-20 23:40:47,095 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:40:47,096 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:47,096 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:47,098 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:40:47,098 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:49,122 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:40:49,123 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:49,123 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:40:49,125 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:40:49,125 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:56:57,583 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:56:57,583 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:56:57,584 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:56:57,586 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:56:57,586 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:57:00,354 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:57:00,355 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:57:00,356 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:57:00,357 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:57:00,358 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:58:51,406 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:58:51,407 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-20 23:58:51,409 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-20 23:58:51,411 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-20 23:58:51,411 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:00:58,256 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:00:58,257 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:00:58,259 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:00:58,266 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:00:58,267 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:15:46,993 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pageHelper:com.toov5.pageHelper:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.pageHelper\pom.xml.
+2018-10-21 00:15:48,242 [Worker-69] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.pageHelper/src/main/java
+2018-10-21 00:15:48,242 [Worker-69] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.pageHelper/src/main/resources
+2018-10-21 00:15:48,242 [Worker-69] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.toov5.pageHelper/src/test/java
+2018-10-21 00:15:48,243 [Worker-69] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.toov5.pageHelper/src/test/resources
+2018-10-21 00:15:48,749 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 00:15:48,750 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:15:48,752 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 00:15:48,753 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:16:22,506 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pageHelper:com.toov5.pageHelper:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.pageHelper\pom.xml.
+2018-10-21 00:16:25,744 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom
+2018-10-21 00:16:27,162 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom
+2018-10-21 00:16:30,307 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom
+2018-10-21 00:16:30,566 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom
+2018-10-21 00:16:30,628 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom
+2018-10-21 00:16:31,917 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper-spring-boot/1.2.5/pagehelper-spring-boot-1.2.5.pom
+2018-10-21 00:16:33,633 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper-spring-boot/1.2.5/pagehelper-spring-boot-1.2.5.pom
+2018-10-21 00:16:35,243 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper-spring-boot/1.2.5/pagehelper-spring-boot-1.2.5.pom
+2018-10-21 00:16:35,337 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot/1.2.5/pagehelper-spring-boot-1.2.5.pom
+2018-10-21 00:16:35,405 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot/1.2.5/pagehelper-spring-boot-1.2.5.pom
+2018-10-21 00:16:37,118 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mybatis/spring/boot/mybatis-spring-boot-starter/1.3.2/mybatis-spring-boot-starter-1.3.2.pom
+2018-10-21 00:16:38,740 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mybatis/spring/boot/mybatis-spring-boot-starter/1.3.2/mybatis-spring-boot-starter-1.3.2.pom
+2018-10-21 00:16:41,468 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/mybatis/spring/boot/mybatis-spring-boot-starter/1.3.2/mybatis-spring-boot-starter-1.3.2.pom
+2018-10-21 00:16:41,529 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/spring/boot/mybatis-spring-boot-starter/1.3.2/mybatis-spring-boot-starter-1.3.2.pom
+2018-10-21 00:16:41,630 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/spring/boot/mybatis-spring-boot-starter/1.3.2/mybatis-spring-boot-starter-1.3.2.pom
+2018-10-21 00:16:43,255 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mybatis/spring/boot/mybatis-spring-boot/1.3.2/mybatis-spring-boot-1.3.2.pom
+2018-10-21 00:16:44,539 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mybatis/spring/boot/mybatis-spring-boot/1.3.2/mybatis-spring-boot-1.3.2.pom
+2018-10-21 00:16:46,575 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/mybatis/spring/boot/mybatis-spring-boot/1.3.2/mybatis-spring-boot-1.3.2.pom
+2018-10-21 00:16:46,635 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/spring/boot/mybatis-spring-boot/1.3.2/mybatis-spring-boot-1.3.2.pom
+2018-10-21 00:16:46,730 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/spring/boot/mybatis-spring-boot/1.3.2/mybatis-spring-boot-1.3.2.pom
+2018-10-21 00:16:48,325 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mybatis/mybatis-parent/29/mybatis-parent-29.pom
+2018-10-21 00:16:49,884 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mybatis/mybatis-parent/29/mybatis-parent-29.pom
+2018-10-21 00:16:51,858 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/mybatis/mybatis-parent/29/mybatis-parent-29.pom
+2018-10-21 00:16:51,914 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/mybatis-parent/29/mybatis-parent-29.pom
+2018-10-21 00:16:52,021 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/mybatis-parent/29/mybatis-parent-29.pom
+2018-10-21 00:16:54,346 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/fasterxml/jackson/jackson-bom/2.8.10/jackson-bom-2.8.10.pom
+2018-10-21 00:16:54,856 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/fasterxml/jackson/jackson-bom/2.8.10/jackson-bom-2.8.10.pom
+2018-10-21 00:16:57,018 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/fasterxml/jackson/jackson-bom/2.8.10/jackson-bom-2.8.10.pom
+2018-10-21 00:17:00,269 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.pom
+2018-10-21 00:17:01,915 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.pom
+2018-10-21 00:17:02,217 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.pom
+2018-10-21 00:17:02,293 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.pom
+2018-10-21 00:17:02,429 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.pom
+2018-10-21 00:17:04,009 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.pom
+2018-10-21 00:17:05,586 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.pom
+2018-10-21 00:17:07,040 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.pom
+2018-10-21 00:17:07,108 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.pom
+2018-10-21 00:17:07,169 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.pom
+2018-10-21 00:17:08,748 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2.pom
+2018-10-21 00:17:10,410 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2.pom
+2018-10-21 00:17:12,019 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2.pom
+2018-10-21 00:17:12,109 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2.pom
+2018-10-21 00:17:12,205 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/mybatis/mybatis-spring/1.3.2/mybatis-spring-1.3.2.pom
+2018-10-21 00:17:13,833 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.pom
+2018-10-21 00:17:15,443 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.pom
+2018-10-21 00:17:16,855 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.pom
+2018-10-21 00:17:16,926 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.pom
+2018-10-21 00:17:16,990 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.pom
+2018-10-21 00:17:18,608 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.pom
+2018-10-21 00:17:20,272 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.pom
+2018-10-21 00:17:21,687 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.pom
+2018-10-21 00:17:21,809 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.pom
+2018-10-21 00:17:21,866 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.pom
+2018-10-21 00:17:23,721 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.pom
+2018-10-21 00:17:25,360 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.pom
+2018-10-21 00:17:26,745 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.pom
+2018-10-21 00:17:26,817 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.pom
+2018-10-21 00:17:26,906 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.pom
+2018-10-21 00:17:28,822 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.jar
+2018-10-21 00:17:30,436 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.jar
+2018-10-21 00:17:32,069 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.jar
+2018-10-21 00:17:33,718 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar
+2018-10-21 00:17:35,313 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.jar
+2018-10-21 00:17:36,924 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.jar
+2018-10-21 00:17:38,645 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.jar
+2018-10-21 00:17:40,073 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar
+2018-10-21 00:17:41,510 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.jar
+2018-10-21 00:17:42,866 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.jar
+2018-10-21 00:17:44,937 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.jar
+2018-10-21 00:17:46,296 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar
+2018-10-21 00:17:46,353 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.jar
+2018-10-21 00:17:46,473 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.jar
+2018-10-21 00:17:46,524 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.jar
+2018-10-21 00:17:46,586 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.5/pagehelper-spring-boot-autoconfigure-1.2.5.jar
+2018-10-21 00:17:46,683 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.jar
+2018-10-21 00:17:46,768 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4.jar
+2018-10-21 00:17:46,819 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar
+2018-10-21 00:17:47,034 [Worker-67] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/jsqlparser/jsqlparser/1.0/jsqlparser-1.0.jar
+2018-10-21 00:17:47,844 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ErrorCatch:com.toov5.ErrorCatch:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.ErrorCatch\pom.xml.
+2018-10-21 00:17:48,641 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springboot-frameworker:com.toov5.frameworker:0.0.1-SNAPSHOT @ D:\JgPro\frameworkerTest\pom.xml.
+2018-10-21 00:17:49,173 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: multipleDatasource:com.toov5.multiple:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.multiple\pom.xml.
+2018-10-21 00:17:49,771 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Distributed:com.toov5.Distributed:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.DistributedTransactio\pom.xml.
+2018-10-21 00:17:50,548 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JdbcAndJpa:com.toov5.jdbcjpa:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.jdbcjpa\pom.xml.
+2018-10-21 00:17:51,080 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springbootYml:com.toov5.yml:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.yml\pom.xml.
+2018-10-21 00:17:51,483 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.com:springboot-helloworld:0.0.1-SNAPSHOT @ D:\JgPro\springboot-helloworld\pom.xml.
+2018-10-21 00:17:52,041 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.jsp:springbootjsp:0.0.1-SNAPSHOT @ D:\JgPro\springbootjsp\pom.xml.
+2018-10-21 00:17:52,717 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: devtools:com.toov5.devtools:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.devtools\pom.xml.
+2018-10-21 00:17:53,654 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringbootOptimize:com.toov5.optimize:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.optimize\pom.xml.
+2018-10-21 00:17:53,945 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringbootActuator:com.toov5.Actuator:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.Actuator\pom.xml.
+2018-10-21 00:17:54,333 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUIServer:com.toov5.adminUiServer:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiServer\pom.xml.
+2018-10-21 00:17:55,030 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUiClient:com.toov5.adminUiClient:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiClient\pom.xml.
+2018-10-21 00:17:56,014 [Worker-67] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jdbcTemplate:com.toov5.jdbc:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.jdbc\pom.xml.
+2018-10-21 00:18:03,230 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:03,230 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:03,230 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:03,231 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:03,231 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:04,616 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:04,618 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:04,623 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:04,628 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:04,629 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:05,579 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:05,580 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:05,607 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:05,608 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:05,609 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:06,272 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:06,272 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:06,272 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:06,274 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:06,274 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:07,081 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:07,082 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:07,083 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:07,084 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:07,084 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:07,924 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:07,924 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:07,925 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:07,927 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:07,928 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:08,696 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:08,697 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:08,699 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:08,702 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:08,702 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:09,600 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:09,601 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:09,690 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:09,690 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:09,690 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:10,860 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:10,861 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:10,863 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:10,866 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:10,866 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:12,041 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:12,042 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:12,043 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:12,045 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:12,045 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:12,578 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:12,579 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:12,579 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:12,579 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:12,580 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:13,533 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:13,534 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:13,534 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:13,537 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:13,537 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:14,102 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:14,102 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:14,104 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:14,106 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:14,106 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:14,656 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:14,656 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:14,656 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:18:14,658 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:14,658 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:15,139 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:15,139 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:15,139 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:15,140 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:15,140 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:16,305 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:16,305 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-10-21 00:18:16,308 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:18:16,311 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:18:16,311 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:19:58,951 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:19:58,952 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:19:58,952 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:19:58,954 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:19:58,954 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:20:06,503 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:20:06,504 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:20:06,504 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:20:06,513 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:20:06,515 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:22:46,045 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:22:46,046 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:22:46,046 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:22:46,048 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:22:46,048 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:01,635 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:01,635 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:01,636 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:01,638 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:01,639 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:05,384 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:05,384 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:05,384 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:05,387 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:05,388 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:22,288 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:22,289 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:22,289 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:22,290 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:22,290 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:39,901 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:39,902 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:39,902 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:23:39,904 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:23:39,904 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:34:46,342 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar
+2018-10-21 00:34:47,957 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar
+2018-10-21 00:34:49,440 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://dl.bintray.com/rabbitmq/maven-milestones/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar
+2018-10-21 00:34:49,720 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar
+2018-10-21 00:34:49,874 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar
+2018-10-21 00:34:49,981 [Worker-62] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.pagehelper:pagehelper:5.1.4
+2018-10-21 00:34:50,589 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:34:50,590 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:34:50,590 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:34:50,591 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:34:50,591 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:38:21,897 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:38:21,899 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:38:21,900 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:38:21,902 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:38:21,903 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:14,196 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:39:14,201 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:14,202 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:14,205 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:39:14,205 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:18,480 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:39:18,481 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:18,481 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:18,483 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:39:18,483 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:23,830 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:39:23,830 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:23,831 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:39:23,832 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:39:23,832 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:40:24,739 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:40:24,740 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:40:24,741 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:40:24,743 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:40:24,743 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:40:28,028 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:40:28,028 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:40:28,030 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:40:28,034 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:40:28,034 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:41:29,645 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:41:29,645 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:41:29,647 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:41:29,649 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:41:29,649 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:43:49,645 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:43:49,649 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:43:49,652 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:43:49,657 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:43:49,657 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:45:25,514 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:45:25,515 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:45:25,516 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:45:25,517 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:45:25,517 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:46:24,771 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:46:24,771 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 00:46:24,772 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 00:46:24,773 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 00:46:24,774 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:01:06,921 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:01:06,921 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:01:06,925 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:01:06,927 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:01:06,928 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:28,878 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:28,879 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:02:28,880 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:28,882 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:28,883 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:36,594 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:36,595 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:02:36,597 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:36,599 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:36,600 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:40,252 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:40,254 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:02:40,254 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:40,256 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:40,256 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:43,898 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:43,899 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:02:43,900 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:43,901 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:43,902 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:47,249 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:47,250 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:02:47,251 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:47,253 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:47,254 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:50,530 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:50,531 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:02:50,533 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:02:50,535 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:02:50,536 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:04:02,506 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:04:02,506 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:04:02,507 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:04:02,508 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:04:02,509 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:04:17,825 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:04:17,825 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:04:17,827 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:04:17,829 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:04:17,829 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:05:25,648 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:05:25,648 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:05:25,649 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:05:25,652 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:05:25,653 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:05:33,683 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:05:33,683 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:05:33,685 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:05:33,686 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:05:33,687 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:47:09,764 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.springbootRealize:springbootRealize:0.0.1-SNAPSHOT @ D:\JgPro\springbootRealize\pom.xml.
+2018-10-21 01:47:11,610 [Worker-94] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootRealize/src/main/java
+2018-10-21 01:47:11,611 [Worker-94] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootRealize/src/main/resources
+2018-10-21 01:47:11,613 [Worker-94] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springbootRealize/src/test/java
+2018-10-21 01:47:11,614 [Worker-94] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springbootRealize/src/test/resources
+2018-10-21 01:47:12,726 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 01:47:12,736 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:47:12,739 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 01:47:12,741 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:53:32,138 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.springbootRealize:springbootRealize:0.0.1-SNAPSHOT @ D:\JgPro\springbootRealize\pom.xml.
+2018-10-21 01:53:32,823 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.pom
+2018-10-21 01:53:33,077 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.pom
+2018-10-21 01:53:35,287 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper/8.5.16/tomcat-jasper-8.5.16.pom
+2018-10-21 01:53:35,736 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper/8.5.16/tomcat-jasper-8.5.16.pom
+2018-10-21 01:53:36,103 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-servlet-api/8.5.16/tomcat-servlet-api-8.5.16.pom
+2018-10-21 01:53:36,515 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-servlet-api/8.5.16/tomcat-servlet-api-8.5.16.pom
+2018-10-21 01:53:36,741 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-juli/8.5.16/tomcat-juli-8.5.16.pom
+2018-10-21 01:53:36,951 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-juli/8.5.16/tomcat-juli-8.5.16.pom
+2018-10-21 01:53:37,421 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jsp-api/8.5.16/tomcat-jsp-api-8.5.16.pom
+2018-10-21 01:53:37,562 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jsp-api/8.5.16/tomcat-jsp-api-8.5.16.pom
+2018-10-21 01:53:37,832 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-el-api/8.5.16/tomcat-el-api-8.5.16.pom
+2018-10-21 01:53:38,281 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-el-api/8.5.16/tomcat-el-api-8.5.16.pom
+2018-10-21 01:53:38,456 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper-el/8.5.16/tomcat-jasper-el-8.5.16.pom
+2018-10-21 01:53:38,780 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper-el/8.5.16/tomcat-jasper-el-8.5.16.pom
+2018-10-21 01:53:39,317 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-api/8.5.16/tomcat-api-8.5.16.pom
+2018-10-21 01:53:39,528 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-api/8.5.16/tomcat-api-8.5.16.pom
+2018-10-21 01:53:39,677 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util-scan/8.5.16/tomcat-util-scan-8.5.16.pom
+2018-10-21 01:53:40,047 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util-scan/8.5.16/tomcat-util-scan-8.5.16.pom
+2018-10-21 01:53:40,624 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util/8.5.16/tomcat-util-8.5.16.pom
+2018-10-21 01:53:40,833 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util/8.5.16/tomcat-util-8.5.16.pom
+2018-10-21 01:53:41,295 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.jar
+2018-10-21 01:53:44,679 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/embed/tomcat-embed-core/8.5.16/tomcat-embed-core-8.5.16.jar
+2018-10-21 01:53:46,495 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper/8.5.16/tomcat-jasper-8.5.16.jar
+2018-10-21 01:53:47,408 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper/8.5.16/tomcat-jasper-8.5.16.jar
+2018-10-21 01:53:47,835 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-servlet-api/8.5.16/tomcat-servlet-api-8.5.16.jar
+2018-10-21 01:53:49,565 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-servlet-api/8.5.16/tomcat-servlet-api-8.5.16.jar
+2018-10-21 01:53:49,920 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-juli/8.5.16/tomcat-juli-8.5.16.jar
+2018-10-21 01:53:50,392 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-juli/8.5.16/tomcat-juli-8.5.16.jar
+2018-10-21 01:53:50,652 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jsp-api/8.5.16/tomcat-jsp-api-8.5.16.jar
+2018-10-21 01:53:51,174 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jsp-api/8.5.16/tomcat-jsp-api-8.5.16.jar
+2018-10-21 01:53:51,613 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-el-api/8.5.16/tomcat-el-api-8.5.16.jar
+2018-10-21 01:53:52,065 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-el-api/8.5.16/tomcat-el-api-8.5.16.jar
+2018-10-21 01:53:52,469 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper-el/8.5.16/tomcat-jasper-el-8.5.16.jar
+2018-10-21 01:53:53,129 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-jasper-el/8.5.16/tomcat-jasper-el-8.5.16.jar
+2018-10-21 01:53:53,383 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-api/8.5.16/tomcat-api-8.5.16.jar
+2018-10-21 01:53:53,694 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-api/8.5.16/tomcat-api-8.5.16.jar
+2018-10-21 01:53:54,027 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util-scan/8.5.16/tomcat-util-scan-8.5.16.jar
+2018-10-21 01:53:54,644 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util-scan/8.5.16/tomcat-util-scan-8.5.16.jar
+2018-10-21 01:53:54,880 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util/8.5.16/tomcat-util-8.5.16.jar
+2018-10-21 01:53:55,582 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-util/8.5.16/tomcat-util-8.5.16.jar
+2018-10-21 01:53:57,330 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pageHelper:com.toov5.pageHelper:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.pageHelper\pom.xml.
+2018-10-21 01:53:59,116 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ErrorCatch:com.toov5.ErrorCatch:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.ErrorCatch\pom.xml.
+2018-10-21 01:54:00,030 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springboot-frameworker:com.toov5.frameworker:0.0.1-SNAPSHOT @ D:\JgPro\frameworkerTest\pom.xml.
+2018-10-21 01:54:00,752 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: multipleDatasource:com.toov5.multiple:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.multiple\pom.xml.
+2018-10-21 01:54:01,623 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Distributed:com.toov5.Distributed:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.DistributedTransactio\pom.xml.
+2018-10-21 01:54:02,829 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JdbcAndJpa:com.toov5.jdbcjpa:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.jdbcjpa\pom.xml.
+2018-10-21 01:54:03,348 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springbootYml:com.toov5.yml:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.yml\pom.xml.
+2018-10-21 01:54:03,744 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.com:springboot-helloworld:0.0.1-SNAPSHOT @ D:\JgPro\springboot-helloworld\pom.xml.
+2018-10-21 01:54:04,162 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.jsp:springbootjsp:0.0.1-SNAPSHOT @ D:\JgPro\springbootjsp\pom.xml.
+2018-10-21 01:54:04,995 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: devtools:com.toov5.devtools:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.devtools\pom.xml.
+2018-10-21 01:54:05,970 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringbootOptimize:com.toov5.optimize:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.optimize\pom.xml.
+2018-10-21 01:54:06,788 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringbootActuator:com.toov5.Actuator:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.Actuator\pom.xml.
+2018-10-21 01:54:07,713 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUIServer:com.toov5.adminUiServer:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiServer\pom.xml.
+2018-10-21 01:54:09,181 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: adminUiClient:com.toov5.adminUiClient:0.0.1-SNAPSHOT @ D:\JgPro\com.toov5.adminUiClient\pom.xml.
+2018-10-21 01:54:15,993 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 01:54:16,021 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:16,023 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 01:54:16,024 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:17,821 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:17,822 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:17,822 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:17,823 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:17,823 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:19,754 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:19,754 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:19,754 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:19,755 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:19,756 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:20,884 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:20,886 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:20,886 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:20,888 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:20,888 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:21,805 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:21,806 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:21,806 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:21,810 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:21,811 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:22,699 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:22,700 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:22,700 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:22,701 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:22,701 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:23,803 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:23,803 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:23,804 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:23,805 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:23,805 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:24,670 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:24,671 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:24,671 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:24,672 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:24,672 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:25,476 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:25,476 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:25,476 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:25,484 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:25,485 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:26,585 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:26,585 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:26,585 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:26,589 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:26,589 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:27,357 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:27,358 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:27,358 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:27,359 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:27,359 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:28,931 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:28,932 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:54:28,934 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:28,936 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:28,936 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:31,068 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:31,068 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-21 01:54:31,070 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:31,071 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:31,071 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:31,806 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:31,806 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:31,806 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:31,808 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:31,808 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:32,829 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:32,831 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:32,831 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:32,835 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-21 01:54:32,835 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:33,042 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 01:54:33,045 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 01:54:33,047 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 01:54:33,050 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:34:57,795 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.tomcat:tomcat:0.0.1-SNAPSHOT @ D:\JgPro\tomcat\pom.xml.
+2018-10-21 02:34:58,999 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tomcat/src/main/java
+2018-10-21 02:34:59,000 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tomcat/src/main/resources
+2018-10-21 02:34:59,002 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tomcat/src/test/java
+2018-10-21 02:34:59,003 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tomcat/src/test/resources
+2018-10-21 02:34:59,815 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:34:59,859 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:34:59,861 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:34:59,862 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:44:29,667 [Worker-105] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.tomcat:tomcat:0.0.1-SNAPSHOT @ D:\JgPro\tomcat\pom.xml.
+2018-10-21 02:44:51,881 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-annotations-api/8.5.28/tomcat-annotations-api-8.5.28.jar
+2018-10-21 02:44:52,079 [Worker-96] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/tomcat/tomcat-annotations-api/8.5.28/tomcat-annotations-api-8.5.28.jar
+2018-10-21 02:44:52,339 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.tomcat:tomcat:0.0.1-SNAPSHOT @ D:\JgPro\tomcat\pom.xml.
+2018-10-21 02:44:52,740 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:44:52,743 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:44:52,744 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:44:52,745 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:44:54,538 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:44:54,544 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:44:54,546 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:44:54,547 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:45:48,160 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.tomcat:tomcat:0.0.1-SNAPSHOT @ D:\JgPro\tomcat\pom.xml.
+2018-10-21 02:45:50,225 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:45:50,228 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:45:50,228 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:45:50,229 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:45:53,767 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:45:53,769 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:45:53,770 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:45:53,774 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:47:42,523 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:47:42,526 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:47:42,529 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:47:42,530 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:48:14,554 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:48:14,557 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:48:14,558 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:48:14,564 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:50:01,659 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:50:01,661 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:50:01,661 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:50:01,662 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:50:18,945 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:50:18,946 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:50:18,947 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:50:18,948 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:52:40,247 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:52:40,249 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:52:40,250 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:52:40,251 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:52:45,342 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.tomcat:tomcat:0.0.1-SNAPSHOT @ D:\JgPro\tomcat\pom.xml.
+2018-10-21 02:52:45,734 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:52:45,736 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:52:45,737 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:52:45,738 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:52:47,523 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:52:47,524 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:52:47,525 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:52:47,525 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:53:26,278 [Worker-101] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-10-21 02:53:27,046 [Worker-101] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.toov5.tomcat:tomcat:0.0.1-SNAPSHOT @ D:\JgPro\tomcat\pom.xml.
+2018-10-21 02:53:27,604 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tomcat/src/main/java
+2018-10-21 02:53:27,605 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tomcat/src/main/resources
+2018-10-21 02:53:27,605 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tomcat/src/test/java
+2018-10-21 02:53:27,606 [Worker-101] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tomcat/src/test/resources
+2018-10-21 02:53:28,320 [Worker-101] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-10-21 02:53:28,645 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:53:28,651 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:53:28,653 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:53:28,654 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:53:48,867 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:53:48,871 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:53:48,872 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:53:48,873 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:55:07,860 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:55:07,861 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 02:55:07,863 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 02:55:07,867 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:03:11,491 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:03:11,492 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:03:11,493 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:03:11,494 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:10:02,973 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:10:02,974 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:10:02,975 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:10:02,976 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:13:34,235 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:13:34,236 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:13:34,237 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:13:34,238 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:16:47,250 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:16:47,251 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:16:47,252 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:16:47,253 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:20:32,432 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:20:32,437 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:20:32,446 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:20:32,447 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:24:58,839 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:24:58,841 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:24:58,843 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:24:58,846 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:27:18,796 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:27:18,797 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:27:18,798 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:27:18,801 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:27:51,971 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:27:51,972 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:27:51,973 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:27:51,974 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:32:53,904 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:32:53,905 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:32:53,905 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:32:53,906 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:33:37,811 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:33:37,812 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:33:37,813 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:33:37,814 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:34:27,496 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:34:27,497 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:34:27,498 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:34:27,499 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:35:04,694 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:35:04,696 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:35:04,697 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:35:04,698 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:36:00,623 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:36:00,624 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-21 03:36:00,626 [Worker-107] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2018-10-21 03:36:00,627 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

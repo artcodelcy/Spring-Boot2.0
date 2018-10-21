@@ -1,0 +1,6 @@
+package com.toov5.config;
+@Configuration
+@ComponentScan(basePackages = "com.itmayiedu")
+public class RootConfig {
+
+}

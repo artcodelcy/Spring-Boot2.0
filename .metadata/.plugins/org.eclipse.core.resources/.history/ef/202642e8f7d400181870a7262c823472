@@ -1,0 +1,7 @@
+package com.toov5.config;
+@Configuration
+@EnableWebMvc
+@ComponentScan("com.itmayiedu.controller")
+public class WebConfig extends WebMvcConfigurerAdapter {
+
+}

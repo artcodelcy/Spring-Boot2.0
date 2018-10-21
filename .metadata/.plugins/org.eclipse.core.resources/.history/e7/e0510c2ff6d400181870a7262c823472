@@ -1,0 +1,5 @@
+@Configuration
+@ComponentScan(basePackages = "com.itmayiedu")
+public class RootConfig {
+
+}

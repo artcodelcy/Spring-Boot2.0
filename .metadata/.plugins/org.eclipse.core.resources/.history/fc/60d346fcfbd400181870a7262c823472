@@ -1,0 +1,20 @@
+package com.toov5.config;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
+
+/*
+ * spring mvc的配置信息
+ * 
+ */
+@Configuration   //表示配置
+@EnableWebMvc   //开启springmvc功能 扫包 视图转换 拦截器
+@ComponentScan("com.toov5.controller")  //扫controller包 类似与传统的配置中 开启扫包模式那段xml配置
+public class WebConfig extends WebMvcConfigurerAdapter {
+  
+	//需要配置视图器
+	
+	
+}
